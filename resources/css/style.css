@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+}
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.heading {
+  background-image: url("../../resources/images/building.png");
+  background-position: center;
+  background-size: cover;
+}
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+a:visited {
+  color: white;
+}
+#Process {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+#sub {
+  background-image: url("../../resources/images/building.png");
+  font-weight: bold;
+  color: white;
+  font-size: 23px;
+}
+.fineprint {
+  font-family: Helvetica;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+}
+.content p {
+  font-size: 14px;
+  font-family: Helvetica;
+}
